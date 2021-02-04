@@ -11,7 +11,7 @@
 **Background in:** Python, Web development
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/arthur-kleber-248336201/)
+* [LinkedIn](https://www.linkedin.com/in/arthur-kleber/)
 
 
 
