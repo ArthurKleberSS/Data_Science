@@ -8,7 +8,7 @@
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
  I'am learning data science 
 
-**Background in:** Python, Web development
+**Background in:** Python, Web development com Django
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/arthur-kleber/)
