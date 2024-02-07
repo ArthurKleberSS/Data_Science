@@ -5,13 +5,13 @@
 </p>
 
 # Arthur Kleber
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
- I'am learning data science 
+<sub> I am learning computer vision and here are some projects I've done</sub>
 
-**Background in:** Python, Web development com Django
+
+**Background in:** Python, Engineering
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/arthur-kleber/)
+* [LinkedIn][(https://www.linkedin.com/in/arthur-kleber-248336201)
 
 
 
